@@ -1,0 +1,1 @@
+javaws http://10.98.6.115:9090/computer/Automation04/jenkins-agent.jnlp
